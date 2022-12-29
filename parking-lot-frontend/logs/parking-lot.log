@@ -1,0 +1,450 @@
+2022-11-01 10:21:25,574 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 10:21:25
+2022-11-01 10:21:26,191 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 9400 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 10:21:26,195 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 10:21:31,376 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 5.698 seconds (JVM running for 13.015)
+2022-11-01 10:21:46,738 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 286
+2022-11-01 10:22:36,318 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-1] Processing Time, 163
+2022-11-01 10:23:44,642 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 133
+2022-11-01 10:24:31,703 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 178
+2022-11-01 10:25:49,367 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 144
+2022-11-01 10:26:16,301 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 172
+2022-11-01 10:26:51,444 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 166
+2022-11-01 10:27:22,197 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 209
+2022-11-01 10:29:12,866 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 139
+2022-11-01 10:37:46,513 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 170
+2022-11-01 10:40:09,407 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 146
+2022-11-01 10:40:32,970 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 154
+2022-11-01 11:27:48,509 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 443
+2022-11-01 11:28:08,652 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-5] Processing Time, 472
+2022-11-01 11:28:35,506 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 430
+2022-11-01 11:31:21,384 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 372
+2022-11-01 11:31:38,307 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 447
+2022-11-01 11:32:02,721 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 442
+2022-11-01 11:32:40,300 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 398
+2022-11-01 11:45:07,298 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 426
+2022-11-01 11:45:30,666 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-1] Processing Time, 436
+2022-11-01 11:46:02,482 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-5] Processing Time, 447
+2022-11-01 11:46:14,271 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 374
+2022-11-01 11:48:55,387 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 484
+2022-11-01 11:50:24,842 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 497
+2022-11-01 11:51:33,168 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-1] Processing Time, 360
+2022-11-01 11:52:44,818 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 386
+2022-11-01 11:54:22,321 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 441
+2022-11-01 11:55:16,286 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-3] Processing Time, 458
+2022-11-01 11:55:39,186 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 442
+2022-11-01 11:55:54,824 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 459
+2022-11-01 11:56:12,394 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 436
+2022-11-01 11:56:14,332 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 405
+2022-11-01 11:56:34,875 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 402
+2022-11-01 12:18:54,268 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-3] Processing Time, 375
+2022-11-01 12:19:20,973 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 386
+2022-11-01 12:20:00,927 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 324
+2022-11-01 12:20:58,193 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 326
+2022-11-01 12:21:28,290 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 461
+2022-11-01 12:22:09,836 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 360
+2022-11-01 12:22:49,632 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-1] Processing Time, 429
+2022-11-01 12:23:06,605 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-5] Processing Time, 339
+2022-11-01 12:24:16,614 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 454
+2022-11-01 12:24:25,953 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 523
+2022-11-01 12:52:45,326 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 466
+2022-11-01 13:28:52,082 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 398
+2022-11-01 13:33:21,380 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 253
+2022-11-01 14:00:48,992 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-1] Processing Time, 492
+2022-11-01 14:03:15,193 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 14:03:15
+2022-11-01 14:03:17,057 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 4060 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 14:03:17,062 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 14:03:30,230 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 14:03:31,386 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 15.875 seconds (JVM running for 36.975)
+2022-11-01 14:03:43,756 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 694
+2022-11-01 14:43:05,011 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 417
+2022-11-01 14:43:15,534 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 465
+2022-11-01 14:43:45,168 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 387
+2022-11-01 14:44:52,606 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-1] Processing Time, 442
+2022-11-01 14:45:31,461 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 14:45:31
+2022-11-01 14:45:32,517 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 25980 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 14:45:32,522 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 14:45:44,657 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 14:45:45,742 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 14.033 seconds (JVM running for 27.089)
+2022-11-01 14:45:56,987 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 701
+2022-11-01 15:01:32,728 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 374
+2022-11-01 15:01:39,237 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Locale Changed to en
+2022-11-01 15:01:39,657 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 400
+2022-11-01 15:01:45,298 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Locale Changed to en
+2022-11-01 15:01:45,594 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 279
+2022-11-01 15:03:18,478 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-5] Processing Time, 408
+2022-11-01 15:03:22,818 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Locale Changed to en
+2022-11-01 15:03:23,340 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 506
+2022-11-01 15:03:39,395 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Locale Changed to en
+2022-11-01 15:03:39,828 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-5] Processing Time, 423
+2022-11-01 15:04:13,719 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 291
+2022-11-01 15:04:16,580 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Locale Changed to in
+2022-11-01 15:04:16,999 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 408
+2022-11-01 15:05:41,958 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 317
+2022-11-01 15:05:44,890 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Locale Changed to en
+2022-11-01 15:05:45,303 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-5] Processing Time, 400
+2022-11-01 15:05:47,494 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Locale Changed to in
+2022-11-01 15:05:47,933 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 420
+2022-11-01 15:49:43,637 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 141
+2022-11-01 15:49:51,284 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Locale Changed to in
+2022-11-01 15:49:51,424 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 128
+2022-11-01 16:10:40,319 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 139
+2022-11-01 16:11:33,318 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 186
+2022-11-01 16:11:35,609 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Locale Changed to in
+2022-11-01 16:11:35,772 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-1] Processing Time, 154
+2022-11-01 16:11:37,211 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Locale Changed to en
+2022-11-01 16:11:37,381 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 160
+2022-11-01 16:11:48,390 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 153
+2022-11-01 16:12:24,960 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 16:12:24
+2022-11-01 16:12:25,583 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 23728 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 16:12:25,583 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 16:12:30,198 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 16:12:30,567 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 5.499 seconds (JVM running for 13.011)
+2022-11-01 16:12:40,037 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 274
+2022-11-01 16:12:44,851 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Locale Changed to in
+2022-11-01 16:12:47,416 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-1] Processing Time, 184
+2022-11-01 16:12:49,469 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Locale Changed to en
+2022-11-01 16:12:49,628 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 148
+2022-11-01 16:26:58,045 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 16:26:58
+2022-11-01 16:26:58,577 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 10580 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 16:26:58,586 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 16:27:03,316 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 16:27:03,634 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 5.486 seconds (JVM running for 10.77)
+2022-11-01 16:27:18,487 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 257
+2022-11-01 16:27:24,166 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Locale Changed to in
+2022-11-01 16:27:24,330 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-3] Processing Time, 145
+2022-11-01 16:29:06,453 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 194
+2022-11-01 16:29:29,070 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-3] Processing Time, 156
+2022-11-01 16:30:11,392 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 146
+2022-11-01 16:30:26,736 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 158
+2022-11-01 16:32:16,801 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 16:32:16
+2022-11-01 16:32:17,809 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 25540 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 16:32:17,815 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 16:32:23,437 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 16:32:23,775 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 6.818 seconds (JVM running for 13.459)
+2022-11-01 16:32:30,005 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 244
+2022-11-01 16:32:37,763 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Locale Changed to in
+2022-11-01 16:32:37,950 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 171
+2022-11-01 16:32:45,808 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Locale Changed to en
+2022-11-01 16:32:45,969 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 152
+2022-11-01 16:33:22,615 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 179
+2022-11-01 16:47:29,589 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 166
+2022-11-01 16:47:33,599 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 162
+2022-11-01 16:47:37,712 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Locale Changed to in
+2022-11-01 16:47:37,874 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-1] Processing Time, 151
+2022-11-01 16:47:57,302 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-5] Processing Time, 133
+2022-11-01 16:51:04,037 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-1] Processing Time, 176
+2022-11-01 16:57:57,927 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 16:57:57
+2022-11-01 16:57:58,467 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 11504 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 16:57:58,471 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 16:58:03,211 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 16:58:03,518 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 5.485 seconds (JVM running for 10.745)
+2022-11-01 17:16:33,982 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 286
+2022-11-01 17:25:29,222 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 154
+2022-11-01 17:26:15,886 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 17:26:15
+2022-11-01 17:26:16,423 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 14332 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 17:26:16,423 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 17:26:21,606 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 17:26:22,024 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 6.017 seconds (JVM running for 11.464)
+2022-11-01 17:26:28,090 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 336
+2022-11-01 17:29:53,817 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 153
+2022-11-01 17:30:43,710 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 141
+2022-11-01 17:31:49,868 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 280
+2022-11-01 17:32:20,055 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 202
+2022-11-01 17:33:30,717 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 133
+2022-11-01 17:35:05,419 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 154
+2022-11-01 17:35:21,513 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 148
+2022-11-01 17:37:08,101 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 168
+2022-11-01 17:37:17,207 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 161
+2022-11-01 17:37:28,284 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Locale Changed to in
+2022-11-01 17:37:28,451 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 157
+2022-11-01 19:48:18,443 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 19:48:18
+2022-11-01 19:48:19,408 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 5940 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 19:48:19,416 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 19:50:49,534 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 19:50:49
+2022-11-01 19:50:51,768 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 22116 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 19:50:51,779 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 19:51:11,830 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 19:51:12,901 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 22.853 seconds (JVM running for 43.738)
+2022-11-01 19:51:29,507 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 745
+2022-11-01 19:56:52,533 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 407
+2022-11-01 19:59:39,748 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-5] Processing Time, 481
+2022-11-01 20:04:21,421 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 20:04:21
+2022-11-01 20:04:23,278 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 21604 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 20:04:23,285 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 20:04:36,575 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 20:04:37,620 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 15.785 seconds (JVM running for 26.667)
+2022-11-01 20:04:53,244 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 641
+2022-11-01 20:09:53,921 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 20:09:53
+2022-11-01 20:09:55,767 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 22632 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 20:09:55,781 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 20:10:14,181 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 20:10:15,471 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 21.11 seconds (JVM running for 37.939)
+2022-11-01 20:10:29,619 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 714
+2022-11-01 20:14:18,860 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 20:14:18
+2022-11-01 20:14:21,600 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 9372 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 20:14:21,620 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 20:14:40,190 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 20:14:41,950 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 22.534 seconds (JVM running for 58.582)
+2022-11-01 20:15:17,038 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 530
+2022-11-01 20:27:44,386 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 20:27:44
+2022-11-01 20:27:47,223 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 24036 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 20:27:47,232 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 20:28:09,507 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 20:28:10,840 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 25.853 seconds (JVM running for 50.923)
+2022-11-01 20:28:28,374 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 722
+2022-11-01 20:37:07,752 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 20:37:07
+2022-11-01 20:37:10,743 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 16028 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 20:37:10,752 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 20:37:29,118 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 20:37:30,414 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 21.952 seconds (JVM running for 59.241)
+2022-11-01 20:37:57,692 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 643
+2022-11-01 20:43:55,865 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 20:43:55
+2022-11-01 20:43:58,302 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 24668 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 20:43:58,316 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 20:44:17,428 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 20:44:18,472 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 22.104 seconds (JVM running for 46.038)
+2022-11-01 20:44:51,503 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 652
+2022-11-01 20:45:02,042 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-2] [ApplicationUserWrapper{id=null, username='null', password='null', email='null', role='null', enabled=null}]
+2022-11-01 20:47:33,483 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-7] [ApplicationUserWrapper{id=null, username='null', password='null', email='null', role='null', enabled=null}]
+2022-11-01 20:51:09,559 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 20:51:09
+2022-11-01 20:51:12,762 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 15568 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 20:51:12,782 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 20:51:34,914 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 20:51:36,554 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 26.321 seconds (JVM running for 52.113)
+2022-11-01 20:56:54,314 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 666
+2022-11-01 20:59:37,634 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 20:59:37
+2022-11-01 20:59:41,154 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 16664 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 20:59:41,166 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 21:00:01,830 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 21:00:03,510 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 24.815 seconds (JVM running for 40.878)
+2022-11-01 21:00:12,994 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 610
+2022-11-01 21:06:35,081 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 431
+2022-11-01 21:11:33,678 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 21:11:33
+2022-11-01 21:11:36,452 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 24692 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 21:11:36,487 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 21:11:59,662 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 21:12:00,774 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 26.52 seconds (JVM running for 53.846)
+2022-11-01 21:12:14,380 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 602
+2022-11-01 21:12:24,468 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 418
+2022-11-01 21:12:37,483 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-7] [ApplicationUserWrapper{id=null, username='null', password='null', email='null', role='null', enabled=null}]
+2022-11-01 21:16:25,639 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 01 Nov 2022 21:16:25
+2022-11-01 21:16:27,858 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 25208 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-01 21:16:27,872 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 21:16:46,944 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-01 21:16:48,292 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 22.175 seconds (JVM running for 46.809)
+2022-11-01 21:17:10,556 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 519
+2022-11-01 21:17:17,396 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-2] [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', role='null', enabled=true}]
+2022-11-01 21:30:08,310 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-3] Processing Time, 381
+2022-11-01 21:30:19,378 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Locale Changed to en
+2022-11-01 21:30:19,837 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 436
+2022-11-02 08:53:51,097 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 08:53:51
+2022-11-02 08:53:51,785 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 17372 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 08:53:51,792 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 08:53:57,373 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 08:53:57,718 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 6.466 seconds (JVM running for 14.236)
+2022-11-02 08:54:27,605 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 316
+2022-11-02 08:58:39,956 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 157
+2022-11-02 08:58:58,433 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-1] Locale Changed to in
+2022-11-02 08:58:58,690 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 243
+2022-11-02 08:59:05,664 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-5] Locale Changed to en
+2022-11-02 08:59:05,838 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 164
+2022-11-02 08:59:32,125 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-1] [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', role='null', enabled=true}]
+2022-11-02 08:59:37,542 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-9] [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', role='null', enabled=true}]
+2022-11-02 08:59:40,535 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-7] [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', role='null', enabled=true}]
+2022-11-02 09:05:14,670 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-3] [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', role='null', enabled=true}]
+2022-11-02 14:23:14,800 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 14:23:14
+2022-11-02 14:23:15,401 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 17464 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 14:23:15,401 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 14:23:20,450 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 14:23:20,771 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 5.867 seconds (JVM running for 11.657)
+2022-11-02 14:25:01,419 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 317
+2022-11-02 14:37:21,389 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 193
+2022-11-02 14:38:47,212 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 14:38:47
+2022-11-02 14:38:47,765 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 20604 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 14:38:47,768 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 14:38:52,697 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 14:38:53,049 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 5.715 seconds (JVM running for 11.639)
+2022-11-02 14:39:18,375 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 313
+2022-11-02 14:39:34,373 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 189
+2022-11-02 14:40:42,949 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Locale Changed to in
+2022-11-02 14:40:45,455 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 189
+2022-11-02 14:40:52,318 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 173
+2022-11-02 14:42:44,874 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-4] Locale Changed to en
+2022-11-02 14:42:50,687 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-9] Locale Changed to in
+2022-11-02 14:43:23,818 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-4] Locale Changed to en
+2022-11-02 21:12:26,841 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 21:12:26
+2022-11-02 21:12:27,990 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 24204 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 21:12:28,001 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 21:19:33,218 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 21:19:33
+2022-11-02 21:19:34,023 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 25548 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 21:19:34,031 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 21:21:02,381 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 21:21:02
+2022-11-02 21:21:03,349 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 16260 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 21:21:03,349 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 21:40:36,051 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 21:40:36
+2022-11-02 21:40:36,908 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 22388 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 21:40:36,908 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 21:42:03,618 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 21:42:03
+2022-11-02 21:42:04,696 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 24760 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 21:42:04,696 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 21:46:22,452 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 21:46:22
+2022-11-02 21:46:24,616 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 10864 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 21:46:24,617 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 21:51:53,938 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 21:51:53
+2022-11-02 21:51:55,521 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 22672 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 21:51:55,533 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 21:52:07,408 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 21:52:08,226 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 13.954 seconds (JVM running for 24.389)
+2022-11-02 21:52:41,102 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 901
+2022-11-02 21:53:17,912 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 454
+2022-11-02 21:55:20,896 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 21:55:20
+2022-11-02 21:55:23,150 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 22512 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 21:55:23,160 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 21:55:41,136 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 21:55:42,472 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 21.098 seconds (JVM running for 39.233)
+2022-11-02 21:55:57,574 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 598
+2022-11-02 21:58:14,574 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 21:58:14
+2022-11-02 21:58:15,536 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 6612 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 21:58:15,541 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 21:58:29,245 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 21:58:30,825 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 16.061 seconds (JVM running for 26.318)
+2022-11-02 21:58:53,542 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 635
+2022-11-02 22:03:50,576 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 22:03:50
+2022-11-02 22:03:51,631 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 14504 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 22:03:51,636 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 22:04:07,344 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 22:04:08,751 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 17.902 seconds (JVM running for 148.686)
+2022-11-02 22:04:28,799 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 751
+2022-11-02 22:23:53,310 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-3] Processing Time, 475
+2022-11-02 22:28:06,313 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 22:28:06
+2022-11-02 22:28:07,156 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 6596 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 22:28:07,163 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 22:28:21,011 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 22:28:22,160 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 15.683 seconds (JVM running for 24.866)
+2022-11-02 22:28:39,502 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 732
+2022-11-02 22:32:29,243 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 22:32:29
+2022-11-02 22:32:30,239 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 1688 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 22:32:30,243 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 22:32:40,864 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 22:32:42,074 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 12.57 seconds (JVM running for 21.779)
+2022-11-02 22:34:01,076 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 718
+2022-11-02 22:37:39,247 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 22:37:39
+2022-11-02 22:37:40,066 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 22056 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 22:37:40,076 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 22:37:48,024 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 22:37:48,520 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 9.107 seconds (JVM running for 18.649)
+2022-11-02 22:37:59,479 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 664
+2022-11-02 22:40:57,809 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 22:40:57
+2022-11-02 22:40:58,721 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 24668 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 22:40:58,721 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 22:41:06,975 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 22:41:07,465 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 9.438 seconds (JVM running for 70.697)
+2022-11-02 22:41:26,108 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 721
+2022-11-02 22:44:52,277 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 22:44:52
+2022-11-02 22:44:53,221 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 21128 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 22:44:53,222 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 22:45:01,804 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 22:45:02,216 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 9.721 seconds (JVM running for 18.947)
+2022-11-02 22:45:37,468 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 730
+2022-11-02 22:48:12,192 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 22:48:12
+2022-11-02 22:48:13,279 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 21632 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 22:48:13,279 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 22:48:22,601 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 22:48:23,569 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 11.164 seconds (JVM running for 21.312)
+2022-11-02 22:48:46,853 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 758
+2022-11-02 22:59:04,030 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 22:59:04
+2022-11-02 22:59:04,960 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 22176 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 22:59:04,960 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 22:59:12,734 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 22:59:13,524 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 9.277 seconds (JVM running for 21.579)
+2022-11-02 22:59:59,007 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 706
+2022-11-02 23:04:03,415 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 439
+2022-11-02 23:08:26,519 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 02 Nov 2022 23:08:26
+2022-11-02 23:08:27,646 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 16340 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-02 23:08:27,656 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-02 23:08:36,293 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-02 23:08:37,383 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 10.629 seconds (JVM running for 23.296)
+2022-11-02 23:09:43,063 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 793
+2022-11-02 23:09:45,291 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-2] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 09:06:13,358 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 03 Nov 2022 09:06:13
+2022-11-03 09:06:13,975 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 22732 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-03 09:06:13,979 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-03 09:06:20,271 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-03 09:06:20,684 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 7.166 seconds (JVM running for 13.673)
+2022-11-03 09:17:21,015 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 255
+2022-11-03 09:17:25,853 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-5] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 09:19:23,817 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-10] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 09:19:41,537 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-4] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 10:44:42,740 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 191
+2022-11-03 10:44:47,436 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-10] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 10:45:14,710 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-3] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 10:46:07,708 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-7] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 10:47:23,653 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-10] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 10:50:39,318 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 03 Nov 2022 10:50:39
+2022-11-03 10:50:39,836 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 22640 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-03 10:50:39,836 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-03 10:50:45,035 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-03 10:50:45,389 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 5.962 seconds (JVM running for 23.324)
+2022-11-03 10:51:10,782 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 289
+2022-11-03 10:51:15,620 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-2] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 10:52:17,709 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-8] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 10:52:52,594 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-1] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 10:53:11,921 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-4] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 10:54:14,489 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-8] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 10:55:13,604 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-4] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 10:56:03,278 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-9] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 10:57:06,199 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-4] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 10:58:22,175 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-8] data list user : [ApplicationUserWrapper{id=1, username='administrator', password='$2a$10$X1HCrYSaDCWYvopXbRlHFe84v23kxCTmi5T8d6mtTN0KM4W.VuGla', email='admin@admin.com', enabled=true, roleList=[ROLE_ADMIN, ROLE_USER]}]
+2022-11-03 13:09:24,917 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 03 Nov 2022 13:09:24
+2022-11-03 13:09:25,672 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 1816 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-03 13:09:25,672 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-03 13:09:31,351 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-03 13:09:31,726 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 6.642 seconds (JVM running for 15.694)
+2022-11-03 13:09:46,531 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 326
+2022-11-04 14:03:25,920 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 04 Nov 2022 14:03:25
+2022-11-04 14:03:26,649 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 13012 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-04 14:03:26,660 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-04 14:03:32,625 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-04 14:03:32,973 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 6.881 seconds (JVM running for 15.64)
+2022-11-04 14:03:53,005 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 342
+2022-11-04 14:04:08,412 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 205
+2022-11-04 14:41:20,317 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 175
+2022-11-04 14:41:36,891 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-5] Processing Time, 182
+2022-11-04 15:19:58,602 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 171
+2022-11-04 15:21:49,096 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 168
+2022-11-04 15:57:02,967 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 04 Nov 2022 15:57:02
+2022-11-04 15:57:04,066 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 23652 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-11-04 15:57:04,071 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-04 15:57:13,398 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-11-04 15:57:13,984 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 10.799 seconds (JVM running for 22.054)
+2022-11-04 16:06:51,423 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 207
+2022-12-06 10:58:05,103 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 06 Dec 2022 10:58:05
+2022-12-06 10:58:05,841 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 1980 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-12-06 10:58:05,844 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-06 10:58:11,981 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-12-06 10:58:12,299 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 7.016 seconds (JVM running for 17.827)
+2022-12-06 10:59:41,756 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 495
+2022-12-06 10:59:57,116 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 218
+2022-12-06 11:00:53,165 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-7] Locale Changed to in
+2022-12-06 11:00:59,067 INFO i.c.m.p.f.c.ApplicationUserController [http-nio-8080-exec-2] Locale Changed to en
+2022-12-06 11:01:03,646 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-7] Processing Time, 205
+2022-12-06 11:01:11,295 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-3] Processing Time, 216
+2022-12-06 11:01:18,610 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 214
+2022-12-06 11:35:49,404 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-9] Processing Time, 188
+2022-12-06 11:36:40,815 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 188
+2022-12-06 11:36:49,984 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 208
+2022-12-06 11:37:01,317 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 192
+2022-12-06 11:37:45,194 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-6] Processing Time, 213
+2022-12-06 11:38:05,038 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-1] Processing Time, 218
+2022-12-06 11:38:31,782 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-1] Processing Time, 200
+2022-12-16 13:37:24,415 INFO i.c.m.ParkingLotApplication [main] Application Parking Lot Started at : 16 Dec 2022 13:37:24
+2022-12-16 13:37:24,977 INFO i.c.m.ParkingLotApplication [main] Starting ParkingLotApplication using Java 1.8.0_341 on MM1NB7667930003 with PID 15684 (D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend\target\classes started by 2296766793 in D:\Project\Spring\new-parking-lot\parking-lot\parking-lot-frontend)
+2022-12-16 13:37:24,981 INFO i.c.m.ParkingLotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-16 13:37:30,216 INFO i.c.m.p.f.c.c.WebConfig [main] Interceptor called
+2022-12-16 13:37:30,529 INFO i.c.m.ParkingLotApplication [main] Started ParkingLotApplication in 5.999 seconds (JVM running for 14.252)
+2022-12-16 14:05:16,834 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 202
+2022-12-16 14:05:26,733 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-8] Processing Time, 136
+2022-12-16 14:05:33,336 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-3] Processing Time, 140
+2022-12-16 14:05:49,457 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-4] Processing Time, 126
+2022-12-16 14:05:56,647 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-2] Processing Time, 131
+2022-12-16 14:05:59,776 INFO i.c.m.p.f.c.ParkingLotController [http-nio-8080-exec-10] Processing Time, 124

@@ -1,0 +1,1 @@
+java -jar lib\ParkingLotApplication.jar --spring.config.location=config\application.properties
